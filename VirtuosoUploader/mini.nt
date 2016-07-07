@@ -1,0 +1,6 @@
+<http://ejemplo.com#LexicalEntry-6747e9ce-d56e-4251-9970-2c0f92f3d1bf> <http://tbx2rdf.lider-project.eu/tbx#termType> <http://tbx2rdf.lider-project.eu/tbx#fullForm> .
+<http://ejemplo.com#LexicalEntry-6747e9ce-d56e-4251-9970-2c0f92f3d1bf> <http://www.w3.org/ns/ontolex#canonicalForm> <http://ejemplo.com#LexicalEntry-6747e9ce-d56e-4251-9970-2c0f92f3d1bf-CanonicalForm> .
+<http://ejemplo.com#LexicalEntry-6747e9ce-d56e-4251-9970-2c0f92f3d1bf> <http://www.w3.org/ns/ontolex#sense> <http://ejemplo.com#LexicalEntry-6747e9ce-d56e-4251-9970-2c0f92f3d1bf-Sense> .
+<http://ejemplo.com#LexicalEntry-6747e9ce-d56e-4251-9970-2c0f92f3d1bf> <http://www.w3.org/ns/ontolex#language> "ro" .
+<http://ejemplo.com#LexicalEntry-6747e9ce-d56e-4251-9970-2c0f92f3d1bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/ontolex#LexicalEntry> .
+<http://ejemplo.com#LexicalEntry-6747e9ce-d56e-4251-9970-2c0f92f3d1bf> <http://tbx2rdf.lider-project.eu/tbx#reliabilityCode> "3"^^<http://tbx2rdf.lider-project.eu/tbx#reliabilityCode> .
