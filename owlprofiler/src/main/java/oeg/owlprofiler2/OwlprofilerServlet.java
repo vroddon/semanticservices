@@ -1,4 +1,4 @@
-package owlprofiler;
+package oeg.owlprofiler2;
 
 import java.io.IOException;
 import javax.servlet.http.*;

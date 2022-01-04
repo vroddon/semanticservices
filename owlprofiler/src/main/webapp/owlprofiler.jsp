@@ -1,13 +1,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page import="java.util.List" %>
-<%@ page import="javax.jdo.PersistenceManager" %>
-<%@ page import="com.google.appengine.api.users.User" %>
-<%@ page import="com.google.appengine.api.users.UserService" %>
-<%@ page import="com.google.appengine.api.users.UserServiceFactory" %>
 
 <html>
     <head>
-        <link type="text/css" rel="stylesheet" href="http://cosasbuenas.es/img/vroddon.css" /> <!-- /stylesheets/main.css -->       
+        <link type="text/css" rel="stylesheet" href="http://cosasbuenas.es/css/vroddon.css" /> <!-- /stylesheets/main.css -->       
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -37,7 +33,7 @@
         <a href="http://www.w3.org/ns/odrl/2/">ODRL Ontology: http://www.w3.org/ns/odrl/2/</a><br/>
         <hr/>
         <p><small>This is a simple wrapper on top of OWL API, programmed by <a href="http://delicias.dia.fi.upm.es/~vrodriguez/"> Victor Rodriguez-Doncel</a></small></p>
-        <p><small>2014 <a href="http://www.oeg-upm.net">Ontology Engineering Group</a> - Universidad Politécnica de Madrid</small></p>
+        <p><small>2014-2022 <a href="http://www.oeg-upm.net">Ontology Engineering Group</a> - Universidad Politécnica de Madrid</small></p>
 
 
     </body>

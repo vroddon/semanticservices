@@ -3,7 +3,7 @@
     <display-name>OWL Profiler</display-name>
     <servlet>
         <servlet-name>owlprofiler</servlet-name>
-        <servlet-class>owlprofiler.OwlprofilerServlet</servlet-class>
+        <servlet-class>oeg.owlprofiler2.OwlprofilerServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>owlprofiler</servlet-name>

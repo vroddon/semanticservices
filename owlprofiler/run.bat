@@ -1,0 +1,1 @@
+java -jar jetty-runner.jar target\owlprofiler2-1.0-SNAPSHOT.war
